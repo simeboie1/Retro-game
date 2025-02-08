@@ -11,8 +11,7 @@ public class AssetSetter {
     }
 
     public void setObject(){
-
-
+        System.out.println("Hej");
     }
 
     //Placement of NPC
